@@ -11,9 +11,9 @@ Manajemen keuangan yang kurang terstruktur di kalangan pemuda menjadi landasan k
 Mewujudkan kemudahan dan konsistensi dalam menabung berbasis web yang dapat digunakan dengan mudah oleh mahasiswa untuk dapat mencapai target tabungannya. Dengan teknologi ini, diharapkan proses input data, pengeditan, update, dan progress dalam hal menabung dapat dilakukan secara sederhana, efektif, dan efisien.
 ## Batasan Masalah
 Batasan masalah pada sistem yang kami buat ditunjukkan sebagai berikut :
--        Aplikasi tidak dapat melakukan import data dari luar, sehingga data hanya bisa ditambahkan melalui website aplikasi.
--        Aplikasi ini dibangun menggunakan Bahasa pemrograman PHP dan database MYSQL.
--        Aplikasi ini hanya dapat diakses oleh pengguna yang terdaftar dalam database.
+- Aplikasi tidak dapat melakukan import data dari luar, sehingga data hanya bisa ditambahkan melalui website aplikasi.
+- Aplikasi ini dibangun menggunakan Bahasa pemrograman PHP dan database MYSQL.
+- Aplikasi ini hanya dapat diakses oleh pengguna yang terdaftar dalam database.
 ## Solusi Singkat
 Solusi yang dapat kelompok kami tawarkan sehubungan dengan permasalahan di atas yakni dengan membuat suatu aplikasi sederhana berbasis web yang dapat diakses dengan mudah oleh pengguna dalam menginput sejumlah uang ke dalam sistem penyimpanan data tabungan tersebut. Hal ini dapat mempercepat dan mempermudah data pengguna, serta transparansi yang ditawarkan oleh aplikasi sederhana yang kami tawarkan.
 ## Entity Relational Diagram
